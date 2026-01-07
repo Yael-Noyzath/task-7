@@ -11,7 +11,6 @@ class Config:
         # הגדרות ברירת מחדל
         self.data = {
             "server_url": "http://127.0.0.1:8009/upload"#,
-            #"watched_dir": r"C:\Users\yael9"
         }
         self.save()
 
